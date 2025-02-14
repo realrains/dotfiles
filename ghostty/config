@@ -1,0 +1,7 @@
+background = 222222
+foreground = ffffff
+
+theme = 0x96f
+
+font-family = "JetBrainsMono Nerd Font Mono"
+font-size = 13
