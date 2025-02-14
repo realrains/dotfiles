@@ -1,7 +1,11 @@
-background = 222222
-foreground = ffffff
+# Ghostty Configurations
+# Documents: https://ghostty.org/docs/config
 
+# Theme
+# - to show a list of themes, run `ghostty +list-themes`
 theme = 0x96f
 
+# Font
+# - to show a list of fonts, run : `ghostty +list-fonts`
 font-family = "JetBrainsMono Nerd Font Mono"
 font-size = 13
