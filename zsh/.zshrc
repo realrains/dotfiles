@@ -37,4 +37,5 @@ export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
 export SDKMAN_DIR="$HOME/.sdkman"
 [[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"
 
-alias vim=nvim
+alias vim="nvim"
+alias rm="rm -i"
