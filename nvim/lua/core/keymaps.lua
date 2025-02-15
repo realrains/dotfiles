@@ -19,9 +19,5 @@ keymap.set("n", "<leader>to", ":tabnew<CR>") -- open new tab
 keymap.set("n", "<leader>tx", ":tabclose<CR>") -- close current tab
 keymap.set("n", "<leader>tn", ":tabn<CR>") -- go to next tab
 keymap.set("n", "<leader>tp", ":tabp<CR>") -- go to previous tab
-
--- plugin keymaps
-
--- vim-maximizer
-keymap.set("n", "<leader>sm", ":MaximizerToggle<CR>") -- maximize / restore splited window
+keymap.set("n", "<leader>tf", ":tabnew %<CR>") -- open current buffer in new tab
 
